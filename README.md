@@ -2,3 +2,6 @@
 
 - Prueba 1 de repositorio
   
+Para ejecutar el sistema, debes poner
+
+````npm install react´´´´
